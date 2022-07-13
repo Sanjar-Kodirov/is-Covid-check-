@@ -1,0 +1,5 @@
+.border-flag {
+  border: 40px solid transparent;
+  -o-border-image: url("./flag_border.png") 12% stretch;
+  border-image: url("./flag_border.png") 12% stretch;
+}
